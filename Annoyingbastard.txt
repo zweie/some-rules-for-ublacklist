@@ -10,8 +10,6 @@
 #/(\w+\.)+(\w+\.cc)/
 title/(手游|搜索|手机网|软件网|vpn|出国|一键访问|资源网|推荐)/
 
-*://www.3733.com/*
-*://www.greenxiazai.com/*
 *://download.csdn.net/*
 *://www.17ziti.com/*
 *://hong-kong-oleman.wykrawarki.olsztyn.pl/*
@@ -27,15 +25,33 @@ title/(手游|搜索|手机网|软件网|vpn|出国|一键访问|资源网|推�
 *://us.7digital.com/*
 *://www.gdyunjie.cn/*
 *://news.iresearch.cn/*
-*://pcedu.pconline.com.cn/*
 *://zh.gov-civil-braga.pt/*
 *://pinkflag.greedbag.com/*
 *://cserl.com/*
 *://www.600xue.com/*
 *://kakasekali.blogspot.com/*
+*://www.wlrjy.com/*
+# Software(software? virus!) download station
+*://www.3733.com/*
+*://www.greenxiazai.com/*
+*://pcedu.pconline.com.cn/*
 *://downloadsicim.web.app/*
+*://mip.cncrk.com/*
+*://www.zhishiwu.com/*
+*://www.downkr.com/*
+*://www.85jz.com/*
+*://www.52z.com/*
+*://www.wlrjy.com/*
+*://557d1a2a77czxzzdr.foxss.top/*
 # ****ing Forgery
 *://fitgirl-repack.com/*
 *://gm.checkbloc.com/*
 # Unable to enter
 *://www.cnbeta.com.tw/*
+# **** your mother's WeChat public account（源自翻译网页）
+*://www.mpyit.com/*
+# Use others' achievements to make profits
+*://www.iteye.com/resource/*
+*://software.easylife.tw/*
+# Dubious
+*://beijing-resilio.tamasya.info/*
