@@ -37,3 +37,5 @@ title/(手游|搜索|手机网|软件网|vpn|出国|一键访问|资源网|推�
 # ****ing Forgery
 *://fitgirl-repack.com/*
 *://gm.checkbloc.com/*
+# Unable to enter
+*://www.cnbeta.com.tw/*
