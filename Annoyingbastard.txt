@@ -46,8 +46,9 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 # ****ing Forgery
 *://fitgirl-repack.com/*
 *://gm.checkbloc.com/*
-# Unable to enter
+# Unable to access
 *://www.cnbeta.com.tw/*
+*://xuchen.wang/*
 # **** your mother's WeChat public account（源自翻译网页）
 *://www.mpyit.com/*
 # Use others' achievements to make profits
@@ -60,3 +61,8 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://www.vipleyuan.com/*
 *://www.zyheliport.com/*
 *://www1.pconline.com.cn/*
+*://leescandies.com/*
+*://bionix.com/*
+*://www.ucloud.cn/*
+*://www.izhuji.net/*
+*://www.judsonu.edu/*
