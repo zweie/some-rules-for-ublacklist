@@ -56,6 +56,8 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://software.easylife.tw/*
 # Dubious
 *://beijing-resilio.tamasya.info/*
+*://wpoqsw.orlandifiori.it/*
+*://go.copisteriaorseolo.it/*
 # Content Farm
 *://www.xzji.com/*
 *://www.vipleyuan.com/*
