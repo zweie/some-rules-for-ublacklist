@@ -59,6 +59,7 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://wpoqsw.orlandifiori.it/*
 *://go.copisteriaorseolo.it/*
 # Content Farm
+*://www.apispace.com/*
 *://www.xzji.com/*
 *://www.vipleyuan.com/*
 *://www.zyheliport.com/*
@@ -68,3 +69,4 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://www.ucloud.cn/*
 *://www.izhuji.net/*
 *://www.judsonu.edu/*
+*://www.luxshare-ict.com/*
