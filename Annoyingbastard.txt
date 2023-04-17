@@ -10,7 +10,6 @@
 #/(\w+\.)+(\w+\.cc)/
 title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源网|推荐)/
 
-*://download.csdn.net/*
 *://www.17ziti.com/*
 *://hong-kong-oleman.wykrawarki.olsztyn.pl/*
 *://app.bountysource.com/*
@@ -24,7 +23,6 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://ynqypu.asdpariolicalcio.it/*
 *://us.7digital.com/*
 *://www.gdyunjie.cn/*
-*://news.iresearch.cn/*
 *://zh.gov-civil-braga.pt/*
 *://pinkflag.greedbag.com/*
 *://cserl.com/*
@@ -52,6 +50,7 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 # **** your mother's WeChat public account（源自翻译网页）
 *://www.mpyit.com/*
 # Use others' achievements to make profits
+*://download.csdn.net/*
 *://www.iteye.com/resource/*
 *://software.easylife.tw/*
 # Dubious
@@ -70,3 +69,10 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://www.izhuji.net/*
 *://www.judsonu.edu/*
 *://www.luxshare-ict.com/*
+*://*.julindrarecycling.com/*
+*://*.jennyperl.com/*
+*://*.emilyrosespa.com/*
+*://news.iresearch.cn/*
+*://*.ferreteriayvarios.com/*
+*://*.funcionet.com/*
+*://*.btccampaign.com/*
