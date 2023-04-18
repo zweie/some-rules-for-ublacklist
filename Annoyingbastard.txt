@@ -13,3 +13,11 @@
 *://app.mi.com/*
 *://www.soushu.site/*
 *://znssapp.com/*
+*://www.amazon.co.uk/*
+*://www.amazon.ca/*
+*://www.amazon.fr/*
+*://www.amazon.de/*
+*://page.iesdouyin.com/*
+*://wqbook.wqxuetang.com/*
+*://*.aliyuncs.com/*
+*://weread.qq.com/*
