@@ -76,3 +76,5 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://*.ferreteriayvarios.com/*
 *://*.funcionet.com/*
 *://*.btccampaign.com/*
+# AD
+*://www.5ibc.net/*
