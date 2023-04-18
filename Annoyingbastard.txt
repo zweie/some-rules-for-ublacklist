@@ -1,3 +1,15 @@
 # 用不到的网页
 *://marketplace.huaweicloud.com/*
 *://www.jisuapi.com/*
+*://www.siemens-home.cn/*
+*://tw.dictionary.yahoo.com/*
+*://mall.jarhu.com/*
+*://www.taoshupu.net/*
+*://www.ruten.com.tw/*
+*://product.suning.com/*
+*://www.got1shop.com/*
+*://tw.mall.yahoo.com/*
+*://apps.apple.com/*
+*://app.mi.com/*
+*://www.soushu.site/*
+*://znssapp.com/*
