@@ -21,3 +21,5 @@
 *://wqbook.wqxuetang.com/*
 *://*.aliyuncs.com/*
 *://weread.qq.com/*
+*://file.ankichinas.cn/*
+*://www.vipsrc.com/* 
