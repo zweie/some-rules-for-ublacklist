@@ -79,6 +79,7 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://*.funcionet.com/*
 *://*.btccampaign.com/*
 *://www.allcrockedup.com/*
+*://www.yamab2b.com/*
 # AD
 *://www.5ibc.net/*
 *://book.tinynews.org/*
@@ -89,3 +90,17 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://jd.hooos.com/*
 *://www.yjbys.com/*
 *://www.isanxia.com/*
+*://condition.pw/*
+*://could.pw/*
+*://collation.space/*
+*://kampong.space/*
+*://kurbash.fun/*
+*://gozcicegim.online/*
+*://cost.pw/*
+*://gozdehaber.online/*
+*://attack.pw/*
+*://mulotekno.online/*
+*://fazhaber.online/*
+*://difference.pw/*
+*://firtinaosman.online/*
+*://klieg.fun/*
