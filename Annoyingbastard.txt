@@ -80,6 +80,14 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://*.btccampaign.com/*
 *://www.allcrockedup.com/*
 *://www.yamab2b.com/*
+*://chqwe.environmental-protective-cc.com/*
+*://www.diankaiwan.com/*
+*://www.3wka.com/*
+*://www.9917.cn/*
+*://www.otakufuns.com/*
+*://www.mengxiangxiazai.com/*
+*://www.111cn.net/*
+*://www.doyo.cn/*
 # AD
 *://www.5ibc.net/*
 *://book.tinynews.org/*
@@ -104,3 +112,5 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://difference.pw/*
 *://firtinaosman.online/*
 *://klieg.fun/*
+*://cs.zitixiazai.cn/*
+*://wave.video/*
