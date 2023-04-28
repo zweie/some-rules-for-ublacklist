@@ -55,6 +55,7 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://software.easylife.tw/*
 *://max.book118.com/*
 *://www.docin.com/*
+*://*.fontke.com/*
 # Dubious
 *://beijing-resilio.tamasya.info/*
 *://wpoqsw.orlandifiori.it/*
@@ -88,6 +89,9 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://www.mengxiangxiazai.com/*
 *://www.111cn.net/*
 *://www.doyo.cn/*
+*://securezzalink.wiki/*
+*://clearvista.pw/*
+*://www.enn-ng.com/*
 # AD
 *://www.5ibc.net/*
 *://book.tinynews.org/*
@@ -114,3 +118,6 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://klieg.fun/*
 *://cs.zitixiazai.cn/*
 *://wave.video/*
+*://hant.likefont.com/*
+*://www.ztxz.net.cn/*
+*://www.zitixiazai.cn/*
