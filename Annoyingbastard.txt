@@ -23,3 +23,5 @@
 *://weread.qq.com/*
 *://file.ankichinas.cn/*
 *://www.vipsrc.com/* 
+*://www.ztxz.net.cn/*
+*://buff.163.com/*
