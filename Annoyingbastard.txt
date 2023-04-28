@@ -25,3 +25,7 @@
 *://www.vipsrc.com/* 
 *://www.ztxz.net.cn/*
 *://buff.163.com/*
+*://nj.lianjia.com/*
+*://hk.ke.com/*
+*://www.yinlinghealth.com/*
+*://www.givenchy.com/*
