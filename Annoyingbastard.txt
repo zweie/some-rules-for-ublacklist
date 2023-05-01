@@ -29,7 +29,11 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://www.600xue.com/*
 *://kakasekali.blogspot.com/*
 *://www.wlrjy.com/*
-# Software(software? virus!) download station
+*://www.grinshipping.com/*
+
+####################################################
+### Software download station (usually not safe) ###
+####################################################
 *://www.3733.com/*
 *://www.greenxiazai.com/*
 *://pcedu.pconline.com.cn/*
@@ -41,26 +45,43 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://www.52z.com/*
 *://www.wlrjy.com/*
 *://557d1a2a77czxzzdr.foxss.top/*
-# ****ing Forgery
+
+#######################
+### ****ing Forgery ###
+#######################
 *://fitgirl-repack.com/*
 *://gm.checkbloc.com/*
-# Unable to access
+
+########################
+### Unable to access ###
+########################
 *://www.cnbeta.com.tw/*
 *://xuchen.wang/*
-# **** your mother's WeChat public account（源自翻译网页）
+*://sokopasa.online/*
+*://operation.pw/*
+
+################################################
+### Use others' achievements to make profits ###
+################################################
 *://www.mpyit.com/*
-# Use others' achievements to make profits
 *://download.csdn.net/*
 *://www.iteye.com/resource/*
 *://software.easylife.tw/*
 *://max.book118.com/*
 *://www.docin.com/*
 *://*.fontke.com/*
-# Dubious
+*://www.tiaokan.info/*
+
+###############
+### Dubious ###
+###############
 *://beijing-resilio.tamasya.info/*
 *://wpoqsw.orlandifiori.it/*
 *://go.copisteriaorseolo.it/*
-# Content Farm
+
+####################
+### Content Farm ###
+####################
 *://www.apispace.com/*
 *://www.xzji.com/*
 *://www.vipleyuan.com/*
@@ -92,7 +113,18 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://securezzalink.wiki/*
 *://clearvista.pw/*
 *://www.enn-ng.com/*
-# AD
+*://www.dongchedi.com/*
+*://therake.com/*
+*://www.uukanshu.com/*
+*://213277283.legatus-udc.ru/*
+*://398672975.zs2sybiracy.edu.pl/*
+*://www.mingle-mangle.com/*
+*://736565544.besedilo-akordi.si/*
+*://www.idc.ke/*
+
+##########
+### AD ###
+##########
 *://www.5ibc.net/*
 *://book.tinynews.org/*
 *://book.qciss.net/*
@@ -121,3 +153,4 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://hant.likefont.com/*
 *://www.ztxz.net.cn/*
 *://www.zitixiazai.cn/*
+*://iphone.apkpure.com/*
