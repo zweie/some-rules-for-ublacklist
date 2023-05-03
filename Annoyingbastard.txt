@@ -36,3 +36,10 @@
 *://games.sina.cn/*
 *://www.wolframalpha.com/*
 *://q.115.com/*
+*://xingxizhijia.com/*
+*://money.163.com/*
+*://www.sojson.com/*
+*://www.1point3acres.com/*
+*://www.997788.com/*
+*://*.fang.com/*
+*://*.bjx.com.cn/*
