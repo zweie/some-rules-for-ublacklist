@@ -8,7 +8,7 @@
 #屏蔽ip搜索结果
 /((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})(\.((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})){3}/
 #/(\w+\.)+(\w+\.cc)/
-title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源网|推荐)/
+title/(UserProfile|Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源网|推荐|㊙️|✅️)/
 
 *://www.17ziti.com/*
 *://hong-kong-oleman.wykrawarki.olsztyn.pl/*
@@ -59,6 +59,7 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://xuchen.wang/*
 *://sokopasa.online/*
 *://operation.pw/*
+*://www.xhua5.info/*
 
 ################################################
 ### Use others' achievements to make profits ###
@@ -71,6 +72,7 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://www.docin.com/*
 *://*.fontke.com/*
 *://www.tiaokan.info/*
+*://www.share365.vip/*
 
 ###############
 ### Dubious ###
@@ -121,6 +123,7 @@ title/(Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源
 *://www.mingle-mangle.com/*
 *://736565544.besedilo-akordi.si/*
 *://www.idc.ke/*
+*://*.dtlr.com/*
 
 ##########
 ### AD ###
