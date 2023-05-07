@@ -124,6 +124,7 @@ title/(UserProfile|Untitled|手游|搜索|手机网|软件网|vpn|出国|一键�
 *://736565544.besedilo-akordi.si/*
 *://www.idc.ke/*
 *://*.dtlr.com/*
+*://labob.online/*
 
 ##########
 ### AD ###
