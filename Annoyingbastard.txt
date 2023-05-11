@@ -38,9 +38,10 @@ title/(UserProfile|Untitled|手游|搜索|手机网|软件网|vpn|出国|一键�
 *://www.wlrjy.com/*
 *://www.grinshipping.com/*
 
-####################################################
-### Software download station (usually not safe) ###
-####################################################
+###########################################################################
+######################### Software download sites #########################
+###  (Malware with hacking programs are often published on these sites) ###
+###########################################################################
 *://www.3733.com/*
 *://www.greenxiazai.com/*
 *://pcedu.pconline.com.cn/*
@@ -52,6 +53,8 @@ title/(UserProfile|Untitled|手游|搜索|手机网|软件网|vpn|出国|一键�
 *://www.52z.com/*
 *://www.wlrjy.com/*
 *://557d1a2a77czxzzdr.foxss.top/*
+*://942708258.muzykalia.edu.pl/*
+*://564196288.fasola.edu.pl/*
 
 #######################
 ### ****ing Forgery ###
@@ -132,6 +135,10 @@ title/(UserProfile|Untitled|手游|搜索|手机网|软件网|vpn|出国|一键�
 *://www.idc.ke/*
 *://*.dtlr.com/*
 *://labob.online/*
+*://51wap.gbe-dz.com/*
+*://tw.milliondollarquartetlive.co.uk/*
+*://vvoemoo.rollingfxs.com/*
+*://ios.haircareelectrolysis.com/*
 
 ##########
 ### AD ###
@@ -165,3 +172,5 @@ title/(UserProfile|Untitled|手游|搜索|手机网|软件网|vpn|出国|一键�
 *://www.ztxz.net.cn/*
 *://www.zitixiazai.cn/*
 *://iphone.apkpure.com/*
+*://acc.pconline.com.cn/*
+*://www.huaxiaguquan.com/*
