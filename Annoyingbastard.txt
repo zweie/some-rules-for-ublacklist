@@ -1,12 +1,12 @@
 # 用不到的网页
-*://marketplace.huaweicloud.com/*
+*://*.huaweicloud.com/*
 *://www.jisuapi.com/*
 *://www.siemens-home.cn/*
 *://tw.dictionary.yahoo.com/*
 *://mall.jarhu.com/*
-*://www.taoshupu.net/*
-*://www.ruten.com.tw/*
-*://product.suning.com/*
+*://*.taoshupu.net/*
+*://*.ruten.com.tw/*
+*://*.suning.com/*
 *://www.got1shop.com/*
 *://tw.mall.yahoo.com/*
 *://apps.apple.com/*
@@ -35,11 +35,12 @@
 *://moscot.com/*
 *://games.sina.cn/*
 *://www.wolframalpha.com/*
-*://q.115.com/*
+*://*.115.com/*
 *://xingxizhijia.com/*
 *://money.163.com/*
 *://www.sojson.com/*
-*://www.1point3acres.com/*
+*://*.1point3acres.com/*
 *://www.997788.com/*
 *://*.fang.com/*
 *://*.bjx.com.cn/*
+*://*.iyg.net/*
