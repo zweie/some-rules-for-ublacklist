@@ -56,3 +56,4 @@
 *://xingxizhijia.com/*
 *://xueqiu.com/*
 *://znssapp.com/*
+*://quotes.sina.cn/*
