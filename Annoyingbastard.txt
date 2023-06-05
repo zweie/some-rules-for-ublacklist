@@ -15,7 +15,7 @@
 #屏蔽ip搜索结果
 /((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})(\.((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})){3}/
 #/(\w+\.)+(\w+\.cc)/
-title/(UserProfile|Untitled|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源网|推荐|㊙️|✅️)/
+title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源网|推荐|㊙️|✅️)/
 
 *://www.17ziti.com/*
 *://hong-kong-oleman.wykrawarki.olsztyn.pl/*
@@ -77,6 +77,8 @@ title/(UserProfile|Untitled|手游|搜索|手机网|软件网|vpn|出国|一键�
 *://blog.ficowshen.com/*
 *://465539667.panelopiekuna.edu.pl/*
 *://www.zzwvps.com/*
+*://s.1zo7.com/*
+*://vtcjd.com/*
 
 ################################################
 ### Use others' achievements to make profits ###
@@ -92,6 +94,7 @@ title/(UserProfile|Untitled|手游|搜索|手机网|软件网|vpn|出国|一键�
 *://www.share365.vip/*
 *://*.moku1.com/*
 *://*.moku11.com/*
+*://www.element3ds.com/*
 
 ###############
 ### Dubious ###
@@ -108,10 +111,16 @@ title/(UserProfile|Untitled|手游|搜索|手机网|软件网|vpn|出国|一键�
 *://www.vipleyuan.com/*
 *://www.zyheliport.com/*
 *://www1.pconline.com.cn/*
+*://y.oli-school.com/*
+*://cc.3wv9.com/*
+*://y.o09q.com/*
+*://b.dxwoff.com/*
+*://i.visitfloor.com/*
 *://leescandies.com/*
 *://bionix.com/*
 *://www.ucloud.cn/*
 *://www.izhuji.net/*
+*://hhvmg.com/*
 *://www.judsonu.edu/*
 *://www.luxshare-ict.com/*
 *://*.julindrarecycling.com/*
@@ -174,6 +183,7 @@ title/(UserProfile|Untitled|手游|搜索|手机网|软件网|vpn|出国|一键�
 *://jd.hooos.com/*
 *://www.yjbys.com/*
 *://www.isanxia.com/*
+*://yazhouse8.com/*
 *://condition.pw/*
 *://could.pw/*
 *://collation.space/*
