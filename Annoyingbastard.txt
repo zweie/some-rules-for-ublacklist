@@ -57,3 +57,6 @@
 *://xueqiu.com/*
 *://znssapp.com/*
 *://quotes.sina.cn/*
+*://chuoooo.com/*
+*://*.tumblr.com/*
+*://*.instagram.com/*
