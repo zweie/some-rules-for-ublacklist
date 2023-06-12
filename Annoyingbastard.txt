@@ -116,9 +116,12 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://*.tzz-video.com/*
 *://reccenomad.com/*
 *://guidespice.com/*
+*://nickprinter.com/*
 *://*.visitfloor.com/*
 *://rafiqinfo.com/*
 *://ljwej.com/*
+*://*.maiuki.ch/*
+*://*.hhi-school.com/*
 
 ####################
 ### Content Farm ###
@@ -134,6 +137,8 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://b.dxwoff.com/*
 *://i.visitfloor.com/*
 *://leescandies.com/*
+*://vuasanhrong.com/*
+*://aghayevam.com/*
 *://bionix.com/*
 *://www.ucloud.cn/*
 *://www.izhuji.net/*
@@ -211,6 +216,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://tao.hooos.com/*
 *://kurbash.fun/*
 *://*.covetadorn.com/*
+*://*.aliexpress.com/*
 *://gozcicegim.online/*
 *://cost.pw/*
 *://gozdehaber.online/*
@@ -218,6 +224,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://mulotekno.online/*
 *://fazhaber.online/*
 *://difference.pw/*
+*://*.oups.com/*
 *://firtinaosman.online/*
 *://klieg.fun/*
 *://cs.zitixiazai.cn/*
