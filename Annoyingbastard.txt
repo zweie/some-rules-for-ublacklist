@@ -97,6 +97,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://*.moku11.com/*
 *://www.element3ds.com/*
 *://www.2cyla.com/*
+*://bobopic.com/*
 
 ##################
 ### Suspicious ###
@@ -225,6 +226,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://fazhaber.online/*
 *://difference.pw/*
 *://*.oups.com/*
+*://tongyingshipin.com/*
 *://firtinaosman.online/*
 *://klieg.fun/*
 *://cs.zitixiazai.cn/*
