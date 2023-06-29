@@ -97,6 +97,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://*.moku11.com/*
 *://www.element3ds.com/*
 *://www.2cyla.com/*
+*://*.keeqm.com/*
 *://bobopic.com/*
 
 ##################
@@ -123,6 +124,8 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://ljwej.com/*
 *://*.maiuki.ch/*
 *://*.hhi-school.com/*
+*://ksfboa.com/*
+*://ukrmu.com/*
 
 ####################
 ### Content Farm ###
@@ -170,16 +173,17 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://www.enn-ng.com/*
 *://www.dongchedi.com/*
 *://therake.com/*
+*://*.zj-sxgrc.com/*
 *://www.uukanshu.com/*
-*://213277283.legatus-udc.ru/*
-*://398672975.zs2sybiracy.edu.pl/*
-*://www.mingle-mangle.com/*
-*://736565544.besedilo-akordi.si/*
+*://*.legatus-udc.ru/*
+*://*.zs2sybiracy.edu.pl/*
+*://*.mingle-mangle.com/*
+*://*.besedilo-akordi.si/*
 *://www.idc.ke/*
 *://*.dtlr.com/*
 *://labob.online/*
-*://51wap.gbe-dz.com/*
-*://tw.milliondollarquartetlive.co.uk/*
+*://*.gbe-dz.com/*
+*://*.milliondollarquartetlive.co.uk/*
 *://vvoemoo.rollingfxs.com/*
 *://ios.haircareelectrolysis.com/*
 *://www.iteye.com/*
@@ -196,6 +200,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://bulvar.pw/*
 *://www.9kd.com/*
 *://search.bilibili.com/*
+*://www.vgover.com/*
 
 ##########
 ### AD ###
@@ -229,13 +234,16 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://tongyingshipin.com/*
 *://firtinaosman.online/*
 *://klieg.fun/*
-*://cs.zitixiazai.cn/*
+*://*.zitixiazai.cn/*
 *://wave.video/*
-*://hant.likefont.com/*
-*://www.ztxz.net.cn/*
-*://www.zitixiazai.cn/*
+*://*.likefont.com/*
+*://*.ztxz.net.cn/*
+*://*.zitixiazai.cn/*
 *://iphone.apkpure.com/*
-*://acc.pconline.com.cn/*
-*://www.huaxiaguquan.com/*
-*://www.pllmj.com/*
-*://148337831.znalezieni.pl/*
+*://*.pconline.com.cn/*
+*://*.huaxiaguquan.com/*
+*://*.pllmj.com/*
+*://*.znalezieni.pl/*
+*://*.youxi369.com/*
+*://*.18touch.com/*
+*://*.114shouji.com/*
