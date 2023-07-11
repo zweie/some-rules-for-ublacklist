@@ -60,3 +60,5 @@
 *://chuoooo.com/*
 *://*.tumblr.com/*
 *://*.instagram.com/*
+*://allinfa.com/*
+*://*.uber.com/*
