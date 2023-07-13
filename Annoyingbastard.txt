@@ -62,3 +62,4 @@
 *://*.instagram.com/*
 *://allinfa.com/*
 *://*.uber.com/*
+*://my.oschina.net/*
