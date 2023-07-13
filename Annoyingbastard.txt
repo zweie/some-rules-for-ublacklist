@@ -99,6 +99,8 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://www.2cyla.com/*
 *://*.keeqm.com/*
 *://bobopic.com/*
+*://*.94hd.com/*
+*://*.bluegq.com/*
 
 ##################
 ### Suspicious ###
@@ -206,6 +208,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://search.bilibili.com/*
 *://www.vgover.com/*
 *://gl.ali213.net/*
+*://*.chinapave.com/*
 
 ##########
 ### AD ###
@@ -253,3 +256,4 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://*.youxi369.com/*
 *://*.18touch.com/*
 *://*.114shouji.com/*
+*://soupian.app/*
