@@ -42,23 +42,28 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 ######################### Software download sites #########################
 ###  (Malware with hacking programs are often published on these sites) ###
 ###########################################################################
-*://www.3733.com/*
-*://www.greenxiazai.com/*
+*://*.3733.com/*
+*://*.greenxiazai.com/*
 *://pcedu.pconline.com.cn/*
 *://downloadsicim.web.app/*
-*://mip.cncrk.com/*
-*://www.zhishiwu.com/*
-*://www.downkr.com/*
-*://www.85jz.com/*
-*://www.52z.com/*
-*://www.wlrjy.com/*
-*://557d1a2a77czxzzdr.foxss.top/*
-*://942708258.muzykalia.edu.pl/*
-*://564196288.fasola.edu.pl/*
-*://www.hackhome.com/*
-*://www.shenmeilan.com/*
-*://www.apkzu.com/*
-*://www.1758dj.com/*
+*://*.cncrk.com/*
+*://*.zhishiwu.com/*
+*://*.downkr.com/*
+*://*.85jz.com/*
+*://*.52z.com/*
+*://*.wlrjy.com/*
+*://*.foxss.top/*
+*://*.muzykalia.edu.pl/*
+*://*.fasola.edu.pl/*
+*://*.hackhome.com/*
+*://*.shenmeilan.com/*
+*://*.apkzu.com/*
+*://*.1758dj.com/*
+*://*.liqucn.com/*
+*://*.52sk2.org/*
+*://*.5ku.org/*
+*://*.cfpan.com/*
+*://*.lhdown.com/*
 
 #######################
 ### ****ing Forgery ###
@@ -101,6 +106,9 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://bobopic.com/*
 *://*.94hd.com/*
 *://*.bluegq.com/*
+*://*.1319q.com/*
+*://*.ape-flac.com/*
+*://*.cqe.cc/*
 
 ##################
 ### Suspicious ###
@@ -128,6 +136,9 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://*.hhi-school.com/*
 *://ksfboa.com/*
 *://ukrmu.com/*
+*://k8s1.com/*
+*://yunjisms.xyz/*
+*://*.ryy7.rocks/*
 
 ####################
 ### Content Farm ###
@@ -209,6 +220,8 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://www.vgover.com/*
 *://gl.ali213.net/*
 *://*.chinapave.com/*
+*://xueba5.com/*
+*://*.maxicleanlavanderias.com/*
 
 ##########
 ### AD ###
