@@ -63,3 +63,5 @@
 *://allinfa.com/*
 *://*.uber.com/*
 *://my.oschina.net/*
+*://*.qobuz.com/*
+*://hypeddit.com/*
