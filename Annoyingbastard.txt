@@ -64,6 +64,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://*.5ku.org/*
 *://*.cfpan.com/*
 *://*.lhdown.com/*
+*://*.myzhenai.com.cn/*
 
 #######################
 ### ****ing Forgery ###
@@ -222,6 +223,10 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://*.chinapave.com/*
 *://xueba5.com/*
 *://*.maxicleanlavanderias.com/*
+*://*.zhongguojie.org/*
+*://*.360doc.cn/*
+*://*.cillin.info/*
+*://*.0757it.cn/*
 
 ##########
 ### AD ###
