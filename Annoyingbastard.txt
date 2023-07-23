@@ -65,3 +65,7 @@
 *://my.oschina.net/*
 *://*.qobuz.com/*
 *://hypeddit.com/*
+*://mumu.163.com/*
+*://bbs.xyaz.cn/*
+*://www.ldmnq.com/*
+*://www.bluestacks.cn/*
