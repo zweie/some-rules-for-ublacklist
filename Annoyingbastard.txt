@@ -70,3 +70,4 @@
 *://www.ldmnq.com/*
 *://www.bluestacks.cn/*
 *://dawhois.com/*
+*://tech.sina.cn/*
