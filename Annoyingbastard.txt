@@ -86,6 +86,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://www.zzwvps.com/*
 *://s.1zo7.com/*
 *://vtcjd.com/*
+*://*.h233.eu.org/*
 
 ################################################
 ### Use others' achievements to make profits ###
@@ -227,6 +228,8 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://*.360doc.cn/*
 *://*.cillin.info/*
 *://*.0757it.cn/*
+*://termo-d.eu/*
+*://*.gmz88.com/*
 
 ##########
 ### AD ###
@@ -261,6 +264,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://tongyingshipin.com/*
 *://firtinaosman.online/*
 *://klieg.fun/*
+*://www.volcengine.com/*
 *://*.zitixiazai.cn/*
 *://wave.video/*
 *://*.likefont.com/*
@@ -275,3 +279,4 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://*.18touch.com/*
 *://*.114shouji.com/*
 *://soupian.app/*
+*://*.fnjiasu.com/*
