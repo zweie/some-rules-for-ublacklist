@@ -69,3 +69,7 @@
 *://bbs.xyaz.cn/*
 *://www.ldmnq.com/*
 *://www.bluestacks.cn/*
+*://www.ipaddress.my/*
+*://*.ipip.net/*
+*://nordvpn.com/*
+*://*.lovejay.top/*
