@@ -73,3 +73,5 @@
 *://*.ipip.net/*
 *://nordvpn.com/*
 *://*.lovejay.top/*
+*://dawhois.com/*
+*://tech.sina.cn/*
