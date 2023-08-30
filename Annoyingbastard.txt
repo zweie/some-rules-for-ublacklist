@@ -231,6 +231,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://*.0757it.cn/*
 *://termo-d.eu/*
 *://*.gmz88.com/*
+*://*.somode.com/*
 
 ##########
 ### AD ###
