@@ -75,3 +75,4 @@
 *://*.lovejay.top/*
 *://dawhois.com/*
 *://tech.sina.cn/*
+*://www.ipip.net/*
