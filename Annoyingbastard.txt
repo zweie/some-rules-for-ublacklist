@@ -280,3 +280,4 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://*.114shouji.com/*
 *://soupian.app/*
 *://*.fnjiasu.com/*
+*://wiki-tech.net/*
