@@ -160,6 +160,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://leescandies.com/*
 *://vuasanhrong.com/*
 *://aghayevam.com/*
+*:/*.jimowang.com/*
 *://bionix.com/*
 *://www.ucloud.cn/*
 *://www.izhuji.net/*
