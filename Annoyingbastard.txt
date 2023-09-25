@@ -86,6 +86,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://www.zzwvps.com/*
 *://s.1zo7.com/*
 *://vtcjd.com/*
+*://hd24bit.com/*
 *://*.h233.eu.org/*
 
 ################################################
@@ -166,6 +167,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://www.izhuji.net/*
 *://hhvmg.com/*
 *://www.judsonu.edu/*
+*://bulianglin.com/*
 *://www.luxshare-ict.com/*
 *://hwl.pornl.co/*
 *://*.julindrarecycling.com/*
@@ -179,6 +181,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://www.yamab2b.com/*
 *://usarekse.online/*
 *://usatolse.online/*
+*://028deng.com/*
 *://pakacusa.online/*
 *://gamekent.com/*
 *://chqwe.environmental-protective-cc.com/*
