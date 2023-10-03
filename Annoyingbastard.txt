@@ -113,6 +113,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://*.ape-flac.com/*
 *://*.cqe.cc/*
 *://*.acgcbk.top/*
+*://*.renrendoc.com/*
 
 ##################
 ### Suspicious ###
@@ -159,7 +160,10 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://*.visitfloor.com/*
 *://*.xbeibeix.com/*
 *://leescandies.com/*
+*://*.zou114.net/*
+*://*.srcmini.com/*
 *://vuasanhrong.com/*
+*://*.susanguitar.com/*
 *://aghayevam.com/*
 *:/*.jimowang.com/*
 *://bionix.com/*
