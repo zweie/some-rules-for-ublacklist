@@ -76,3 +76,9 @@
 *://dawhois.com/*
 *://tech.sina.cn/*
 *://www.ipip.net/*
+*://pvp.qq.com/*
+*://fanqienovel.com/*
+*://kan.china.com/*
+*://cuisiliu.net/*
+*://www.163.com/*
+*://k.sina.cn/*
