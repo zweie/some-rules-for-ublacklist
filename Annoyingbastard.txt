@@ -1,8 +1,10 @@
 #############
-###误杀内容###
+###防止误杀###
 #############
 @*://answers.microsoft.com/*
 @*://www.landiannews.com/*
+@*://*.edu/*
+@*://*.edu.cn/*
 
 #############################
 #屏蔽移动端网页
@@ -72,6 +74,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://fitgirl-repack.com/*
 *://gm.checkbloc.com/*
 *://www.suacg.com/*
+*://www.sogou.org/*
 
 ########################
 ### Unable to access ###
