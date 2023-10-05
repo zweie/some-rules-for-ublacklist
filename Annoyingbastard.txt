@@ -17,7 +17,7 @@
 #屏蔽ip搜索结果
 /((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})(\.((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})){3}/
 #/(\w+\.)+(\w+\.cc)/
-title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|软件网|vpn|出国|一键访问|资源网|推荐|㊙️|✅️)/
+title/(UserProfile|Untitled|Search Results|网红上门|手游|手机网|软件网|vpn|出国|一键访问|资源网|推荐|㊙️|✅️)/
 
 *://www.17ziti.com/*
 *://hong-kong-oleman.wykrawarki.olsztyn.pl/*
@@ -67,6 +67,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://*.cfpan.com/*
 *://*.lhdown.com/*
 *://*.myzhenai.com.cn/*
+*://*.mydown.com/*
 
 #######################
 ### ****ing Forgery ###
@@ -244,6 +245,17 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://termo-d.eu/*
 *://*.gmz88.com/*
 *://*.somode.com/*
+*://feeds-drcn.cloud.huawei.com.cn/*
+*://*.getsafezone.com/*
+*://*.xjx100.cn/*
+*://*.benewhorizons.com/*
+*://*.pierremariecoolen.nl/*
+*://*.glo-link.de/*
+*://*.eigv-sv.de/*
+*://*.daniela-jahr.de/*
+*://*.esskultour-stuttgart.de/*
+*://orchiddigitals.com/*
+*://*.azurewebsites.net/*
 
 ##########
 ### AD ###
@@ -295,3 +307,8 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|搜索|手机网|
 *://soupian.app/*
 *://*.fnjiasu.com/*
 *://wiki-tech.net/*
+*://*.revivalanimal.com/*
+*://www.ruoyange.com/*
+*://www.2kxiaoshuo.com/*
+*://acg.zsyts.cn/*
+*://www.dffy.com/*
