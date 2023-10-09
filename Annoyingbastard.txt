@@ -17,7 +17,7 @@
 #屏蔽ip搜索结果
 /((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})(\.((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})){3}/
 #/(\w+\.)+(\w+\.cc)/
-title/(UserProfile|Untitled|Search Results|网红上门|手游|手机网|软件网|下载站|vpn|出国|一键访问|资源网|推荐|㊙️|✅️)/
+title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机网|软件网|下载站|vpn|出国|一键访问|资源网|推荐|㊙️|✅️)/
 
 *://www.17ziti.com/*
 *://hong-kong-oleman.wykrawarki.olsztyn.pl/*
@@ -149,6 +149,7 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|手机网|软件�
 *://k8s1.com/*
 *://yunjisms.xyz/*
 *://*.ryy7.rocks/*
+*://potplayer.info/*   # Doesn't seem to be an official site
 
 ####################
 ### Content Farm ###
@@ -268,6 +269,16 @@ title/(UserProfile|Untitled|Search Results|网红上门|手游|手机网|软件�
 *://*.ti-taiwan.org/*
 *://yuchenios.com/*
 *://*.lyftegypt.com/*
+*://*.mjh34.one/*
+*://*.mjh37.one/*
+*://*.druu82.one/*
+*://*.mjh43.one/*
+*://*.mjh43.one/*
+*://*.bfaa32.com/*
+*://*.mjh62.one/*
+*://*.mjh37.one/*
+*://*.mjh25.one/*
+*://*.cmncam.com/*
 
 ##########
 ### AD ###
