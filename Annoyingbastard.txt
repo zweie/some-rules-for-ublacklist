@@ -93,6 +93,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://vtcjd.com/*
 *://hd24bit.com/*
 *://*.h233.eu.org/*
+*://*.llscrm.com/*
 
 ################################################
 ### Use others' achievements to make profits ###
@@ -279,6 +280,8 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.mjh37.one/*
 *://*.mjh25.one/*
 *://*.cmncam.com/*
+*://*.d3shu.com/* 
+*://*.iplayio.cn/*
 
 ##########
 ### AD ###
