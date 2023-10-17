@@ -94,6 +94,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://hd24bit.com/*
 *://*.h233.eu.org/*
 *://*.llscrm.com/*
+*://oksms.org/*
 
 ################################################
 ### Use others' achievements to make profits ###
@@ -120,6 +121,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.cqe.cc/*
 *://*.acgcbk.top/*
 *://*.renrendoc.com/*
+*://*.zyrhires.com/*
 
 ##################
 ### Suspicious ###
@@ -338,3 +340,9 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://www.2kxiaoshuo.com/*
 *://acg.zsyts.cn/*
 *://www.dffy.com/*
+*://*.free-sms-receive.com/*
+*://*.freesms.vip/*
+*://*.sms24.me/*
+*://quackr.io/*
+*://yunduanxin.xyz/*
+*://*.sms-receive-online.com/*
