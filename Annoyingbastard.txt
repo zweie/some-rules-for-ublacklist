@@ -40,6 +40,8 @@
 *://nj.lianjia.com/*
 *://nordvpn.com/*
 *://page.iesdouyin.com/*
+*://*.izihun.com/*
+*://*.fontru.com/*
 *://product.auto.163.com/*
 *://pvp.qq.com/*
 *://quotes.sina.cn/*
