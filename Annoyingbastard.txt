@@ -126,6 +126,9 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.renrendoc.com/*
 *://*.zyrhires.com/*
 *://*.souziti.com/*
+*://*.haomeili.net/*
+*://*.qiuziti.com/*
+*://*.webfont.com/*
 
 ##################
 ### Suspicious ###
