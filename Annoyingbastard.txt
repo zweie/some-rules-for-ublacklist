@@ -76,6 +76,9 @@
 *://xingxizhijia.com/*
 *://xueqiu.com/*
 *://znssapp.com/*
+*://*.keepassium.com/*
+*://*.keepasshub.com/*
+*://*.strongboxsafe.com/*
 ###################################
 ########### 新闻(?)网站 ############
 ###################################
