@@ -295,6 +295,12 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.shuofengblog.com/*
 *://*.xiaozishe.com/*
 *://*.aimeizx.com/*
+*://*.taobao.lc/*
+*://*.newmitbbs.com/*
+*://*.kantie.org/*
+*://*.haszro.online/*
+*://*.ondabes.online/*
+*://*.huaren.us/*
 
 ##########
 ### AD ###
@@ -358,3 +364,5 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://yunduanxin.xyz/*
 *://*.sms-receive-online.com/*
 *://*.uultd.com/*
+*://*.acethinker.cn/*
+*://*.surfshark.com/*
