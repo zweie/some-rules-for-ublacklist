@@ -27,6 +27,7 @@
 *://file.ankichinas.cn/*
 *://games.sina.cn/*
 *://gu.qq.com/*
+*://sj.qq.com/*
 *://hk.ke.com/*
 *://hypeddit.com/*
 *://k.sina.cn/*
@@ -81,6 +82,9 @@
 *://*.strongboxsafe.com/*
 *://*.zach.codes/*
 *://*.lofter.com/*
+*://*.gcores.com/*
+*://*.trow.cc/*
+*://*.indienova.com/*
 
 ###################################
 ########### 新闻(?)网站 ############
@@ -106,3 +110,20 @@
 *://*.31xiaoshuo.com/*
 *://*.qidian.com/*
 *://*.shubaowb.com/*
+*://*.haixiquan.com/*
+*://*.sfacg.com/*
+*://*.07ek.com/*
+*://*.shucuige.com/*
+*://*.zijinwx.com/*
+*://*.sxyhjx.com/*
+*://*.38xs.com/*
+*://*.69shuba.com/*
+*://*.haiwaishubao.com/*
+*://*.99csw.com/*
+*://*.huanxiyuanjia.com/*
+###################################
+##### 不知道是啥反正用不到的网站 ######
+###################################
+*://*.tgcchinese.org/*
+*://*.parenting.com.tw/*
+*://*.fedibird.com/*
