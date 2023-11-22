@@ -241,6 +241,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.zhongguojie.org/*
 *://*.zj-sxgrc.com/*
 *://*.zou114.net/*
+*://*.gametoeasy.com/*
 *://*.zs2sybiracy.edu.pl/*
 *://028deng.com/*
 *://aghayevam.com/*
