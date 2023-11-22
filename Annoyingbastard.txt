@@ -87,6 +87,7 @@
 *://*.indienova.com/*
 *://*.tsmc.com/*
 *://*.6parkbbs.com/*
+*://*.kktvn.com/*
 
 ###################################
 ########### 新闻(?)网站 ############
@@ -96,6 +97,9 @@
 *://weread.qq.com/*
 *://*.epochtimes.com/*
 *://*.yicai.com/*
+*://*.autohome.com.cn/*
+*://*.yxzzd.com/*
+*://*.ifeng.com/*
 ###################################
 ############# 购物网站 #############
 ###################################
@@ -122,6 +126,7 @@
 *://*.zijinwx.com/*
 *://*.sxyhjx.com/*
 *://*.38xs.com/*
+*://*.doupocangqiong.org/*
 *://*.69shuba.com/*
 *://*.haiwaishubao.com/*
 *://*.wcccc.cc/*
