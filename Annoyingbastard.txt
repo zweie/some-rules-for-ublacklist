@@ -233,6 +233,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.srcmini.com/*
 *://*.susanguitar.com/*
 *://*.taobao.lc/*
+*://*.qiuyexitong.com/*
 *://*.ti-taiwan.org/*
 *://*.visitfloor.com/*
 *://*.xbeibeix.com/*
