@@ -70,6 +70,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.mydown.com/*
 *://*.92sucai.com/*
 *://*.flash.cn/*
+*://*.edge66.com/*
 
 #######################
 ### ****ing Forgery ###
@@ -221,6 +222,8 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.mjh62.one/*
 *://*.newmitbbs.com/*
 *://*.o09q.com/*
+*://*.windows12.pro/*
+*://*.guzelgunlere.online/*
 *://*.oli-school.com/*
 *://*.ondabes.online/*
 *://*.palliser.com/*
@@ -267,6 +270,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://leescandies.com/*
 *://mistral.pw/*
 *://news.iresearch.cn/*
+*://*.ourhobby.club/*
 *://news.sina.cn/*
 *://orchiddigitals.com/*
 *://pakacusa.online/*
