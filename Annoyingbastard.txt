@@ -186,6 +186,9 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.chinapave.com/*
 *://*.cillin.info/*
 *://*.clash-gaming.com/*
+*://*.thewindowsclub.com/*
+*://*.digitzn.com/*
+*://*.wwtyrd.com/*
 *://*.cmncam.com/*
 *://*.cn-sec.com/*
 *://*.easeus.com/*
