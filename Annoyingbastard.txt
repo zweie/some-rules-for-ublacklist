@@ -390,6 +390,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://www.ruoyange.com/*
 *://www.volcengine.com/*
 *://www.yjbys.com/*
+*://*.zaixianjisuan.com/*
 *://xbeibeix.com/*
 *://yazhouse8.com/*
 *://yunduanxin.xyz/*
