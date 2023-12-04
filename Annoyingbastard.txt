@@ -397,3 +397,4 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.youc.com/*
 *://*.annleecakes.com/*
 *://*.didajsq.com/*
+*://*.bestproxy.cc/*
