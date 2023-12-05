@@ -82,6 +82,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://www.sogou.org/*
 *://*.naifei.im/*
 *://*.pchealthcheck.net/*
+*://*.namesilo-china.com/*
 
 ########################
 ### Unable to access ###
