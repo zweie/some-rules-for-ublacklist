@@ -88,6 +88,11 @@
 *://*.tsmc.com/*
 *://*.6parkbbs.com/*
 *://*.kktvn.com/*
+*://*.techspot.com/*
+*://*.techradar.com/*
+*://*.softwaretested.com/*
+*://*.namu.wiki/*
+*://*.trip.com/*
 
 ###################################
 ########### 新闻(?)网站 ############
