@@ -81,6 +81,8 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.aiya8.com/*
 *://*.iefans.net/*
 *://*.edge66.com/*
+*://*.weidown.com/*
+*://*.hezipie.com/*
 *://*.downxing.com/*
 
 #######################
