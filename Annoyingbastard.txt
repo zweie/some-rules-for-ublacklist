@@ -39,6 +39,8 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://kakasekali.blogspot.com/*
 *://www.wlrjy.com/*
 *://www.grinshipping.com/*
+*://*.z197.com/*
+*://*.youxiaohou.com/*
 
 ###########################################################################
 ######################### Software download sites #########################
@@ -79,6 +81,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.aiya8.com/*
 *://*.iefans.net/*
 *://*.edge66.com/*
+*://*.downxing.com/*
 
 #######################
 ### ****ing Forgery ###
@@ -218,6 +221,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.ferreteriayvarios.com/*
 *://*.funcionet.com/*
 *://*.gbe-dz.com/*
+*://*.cninternetdownloadmanager.com/*
 *://*.getsafezone.com/*
 *://*.glo-link.de/*
 *://*.gmz88.com/*
