@@ -105,6 +105,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.manhuadd.com/*
 *://*.whynotwin11.net/*
 *://app.bountysource.com/*
+*://*.numberempire.com/*
 
 ################################################
 ### Use others' achievements to make profits ###
