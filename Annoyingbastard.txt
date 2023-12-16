@@ -81,6 +81,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.pchealthcheck.net/*
 *://*.namesilo-china.com/*
 *://*.fitgirltorrent.com/*
+*://*.dafengdagengren.com/*
 
 ########################
 ### Unable to access ###
@@ -308,6 +309,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://therake.com/*
 *://usarekse.online/*
 *://usatolse.online/*
+*://*.huoshanbancai.com/*
 *://vasilkov.city/*
 *://vuasanhrong.com/*
 *://vvoemoo.rollingfxs.com/*
@@ -417,3 +419,4 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.didajsq.com/*
 *://*.bestproxy.cc/*
 *://*.yebaotv.com/*
+*://*.lfjifa.com/*
