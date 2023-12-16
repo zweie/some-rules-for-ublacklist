@@ -140,6 +140,10 @@
 *://*.69shuba.com/*
 *://*.haiwaishubao.com/*
 *://*.wcccc.cc/*
+*://*.hetushu.com/*
+*://*.youdubook.com/*
+*://*.gaobi.net/*
+*://*.huanggua2020.com/*
 *://*.99csw.com/*
 *://*.huanxiyuanjia.com/*
 ###################################
