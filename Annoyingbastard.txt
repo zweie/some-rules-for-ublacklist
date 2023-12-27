@@ -371,6 +371,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.surfshark.com/*
 *://*.uultd.com/*
 *://*.youxi369.com/*
+*://*.9letu.com/*
 *://*.zitixiazai.cn/*
 *://*.znalezieni.pl/*
 *://*.ztxz.net.cn/*
