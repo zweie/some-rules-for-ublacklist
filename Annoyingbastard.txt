@@ -158,3 +158,4 @@
 *://*.hp.com/*
 *://*.sangfor.com.cn/*
 *://*.ifonts.com/*
+*://*.imazing.com/*
