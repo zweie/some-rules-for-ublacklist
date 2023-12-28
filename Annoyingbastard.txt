@@ -159,3 +159,4 @@
 *://*.sangfor.com.cn/*
 *://*.ifonts.com/*
 *://*.imazing.com/*
+*://*.aiseesoft.com/*
