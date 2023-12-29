@@ -108,9 +108,9 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://app.bountysource.com/*
 *://*.numberempire.com/*
 
-################################################
-### Use others' achievements to make profits ###
-################################################
+##################################################
+### Reselling the gratuitous sharing of others ###
+##################################################
 *://www.mpyit.com/*
 *://download.csdn.net/*
 *://www.iteye.com/resource/*
@@ -121,12 +121,14 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://www.tiaokan.info/*
 *://www.share365.vip/*
 *://*.moku1.com/*
+*://*.sacdsd.com/*
 *://*.moku11.com/*
 *://www.element3ds.com/*
 *://www.2cyla.com/*
 *://*.keeqm.com/*
 *://bobopic.com/*
 *://*.94hd.com/*
+*://*.hi-res.com.cn/*
 *://*.bluegq.com/*
 *://*.1319q.com/*
 *://*.ape-flac.com/*
@@ -188,6 +190,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.azurewebsites.net/*
 *://*.backchina.com/*
 *://*.benewhorizons.com/*
+*://*.munkonggadget.com/*
 *://*.besedilo-akordi.si/*
 *://*.bfaa32.com/*
 *://*.btccampaign.com/*
