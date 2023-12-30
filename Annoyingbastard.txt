@@ -40,6 +40,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.52z.com/*
 *://*.wlrjy.com/*
 *://*.foxss.top/*
+*://*.anqer.cn/*
 *://*.muzykalia.edu.pl/*
 *://*.fasola.edu.pl/*
 *://*.hackhome.com/*
