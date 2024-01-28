@@ -49,6 +49,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.1758dj.com/*
 *://*.liqucn.com/*
 *://*.52sk2.org/*
+*://pcmac.download/*
 *://*.5ku.org/*
 *://*.cfpan.com/*
 *://*.lhdown.com/*
