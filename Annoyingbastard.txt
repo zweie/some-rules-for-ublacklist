@@ -306,6 +306,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.ourhobby.club/*
 *://903621765.maxfit.sk/*
 *://764223468.recepcni-pulty.cz/*
+*://*.huangqiang.me/*
 *://620625112.queens-plan.si/*
 *://ynqypu.asdpariolicalcio.it/*
 *://news.sina.cn/*
