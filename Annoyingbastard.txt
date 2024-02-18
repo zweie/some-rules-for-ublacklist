@@ -133,6 +133,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.94hd.com/*
 *://*.hi-res.com.cn/*
 *://*.bluegq.com/*
+*://*.acgcbk11.vip/*
 *://*.1319q.com/*
 *://*.ape-flac.com/*
 *://*.cqe.cc/*
