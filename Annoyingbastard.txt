@@ -95,7 +95,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://operation.pw/*
 *://www.xhua5.info/*
 *://blog.ficowshen.com/*
-*://465539667.panelopiekuna.edu.pl/*
+*://*.panelopiekuna.edu.pl/*
 *://www.zzwvps.com/*
 *://s.1zo7.com/*
 *://vtcjd.com/*
@@ -103,6 +103,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.h233.eu.org/*
 *://*.llscrm.com/*
 *://oksms.org/*
+*://*.mucyplus.net/*
 *://*.acmechange.com/*
 *://*.howtogeek.com/*
 *://*.xlebbs.com/*
@@ -126,7 +127,10 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.moku1.com/*
 *://*.sacdsd.com/*
 *://*.moku11.com/*
+*://*.lanrenbl.net/*
 *://www.element3ds.com/*
+*://*.resourcesman.com/*
+*://*.acgshome.com/*
 *://www.2cyla.com/*
 *://*.keeqm.com/*
 *://bobopic.com/*
