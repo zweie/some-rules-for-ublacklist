@@ -27,7 +27,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 
 ###########################################################################
 ######################### Software download sites #########################
-###  (Malware with hacking programs are often published on these sites) ###
+#############  (These websites may contain malicious programs) ############
 ###########################################################################
 *://*.3733.com/*
 *://*.greenxiazai.com/*
@@ -51,9 +51,12 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.52sk2.org/*
 *://pcmac.download/*
 *://*.5ku.org/*
+*://*.gtaxx.com/*
+*://*.gtawg.cn/*
 *://*.cfpan.com/*
 *://*.lhdown.com/*
 *://*.myzhenai.com.cn/*
+*://*.crsky.com/*
 *://*.dnxtw.com/*
 *://*.mydown.com/*
 *://*.92sucai.com/*
@@ -100,6 +103,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://s.1zo7.com/*
 *://vtcjd.com/*
 *://hd24bit.com/*
+*://*.folxchina.cn/*
 *://*.h233.eu.org/*
 *://*.llscrm.com/*
 *://oksms.org/*
@@ -112,9 +116,9 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://app.bountysource.com/*
 *://*.numberempire.com/*
 
-##################################################
-### Reselling the gratuitous sharing of others ###
-##################################################
+###############
+### Scalper ###
+###############
 *://www.mpyit.com/*
 *://download.csdn.net/*
 *://www.iteye.com/resource/*
@@ -128,6 +132,8 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.sacdsd.com/*
 *://*.moku11.com/*
 *://*.lanrenbl.net/*
+*://*.52cgzys.com/*
+*://*.78fenxiang.com/*
 *://www.element3ds.com/*
 *://*.resourcesman.com/*
 *://*.acgshome.com/*
@@ -208,11 +214,15 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.php.cn/*
 *://*.clash-gaming.com/*
 *://*.thewindowsclub.com/*
+*://*.avtang.com/*
+*://*.zz5u.com/*
+*://*.lb158.xyz/*
+*://*.liulanqi.com/*
 *://*.digitzn.com/*
 *://*.wwtyrd.com/*
 *://*.cmncam.com/*
 *://*.cn-sec.com/*
-*://*.easeus.com/*
+*://*.ahhhhfs.com/*
 *://*.d3shu.com/* 
 *://*.daniela-jahr.de/*
 *://*.druu82.one/*
@@ -392,6 +402,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://acg.zsyts.cn/*
 *://attack.pw/*
 *://book.qciss.net/*
+*://*.gtawg.cn/*
 *://pinkflag.greedbag.com/*
 *://book.tinynews.org/*
 *://collation.space/*
