@@ -52,6 +52,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://pcmac.download/*
 *://*.5ku.org/*
 *://*.gtaxx.com/*
+*://*.gtafuzhu.cn/*
 *://*.gtawg.cn/*
 *://*.cfpan.com/*
 *://*.lhdown.com/*
@@ -356,6 +357,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://www.izhuji.net/*
 *://www.judsonu.edu/*
 *://www.luxshare-ict.com/*
+*://*.gta5.tv/*
 *://www.mengxiangxiazai.com/*
 *://www.otakufuns.com/*
 *://www.ucloud.cn/*
