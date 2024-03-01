@@ -364,7 +364,10 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://www.uukanshu.com/*
 *://www.vgover.com/*
 *://www.vipleyuan.com/*
+*://*.crifan.com/*
 *://www.xzji.com/*
+*://*.office26.com/*
+*://*.svipshare.com/*
 *://www.yamab2b.com/*
 *://www.zyheliport.com/*
 *://xueba5.com/*
