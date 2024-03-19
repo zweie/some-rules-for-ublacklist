@@ -88,6 +88,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.namesilo-china.com/*
 *://*.fitgirltorrent.com/*
 *://*.dafengdagengren.com/*
+*://*.service-skype.com/*
 *://*.steamtools.net/*
 
 ########################
@@ -217,6 +218,8 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.thewindowsclub.com/*
 *://*.avtang.com/*
 *://*.zz5u.com/*
+*://*.oldtang.com/*
+*://*.fwqcp.com/*
 *://*.lb158.xyz/*
 *://*.liulanqi.com/*
 *://*.digitzn.com/*
@@ -255,6 +258,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.lyftegypt.com/*
 *://*.maxicleanlavanderias.com/*
 *://*.metsagroup.com/*
+*://*.pc-tips.info/*
 *://*.milliondollarquartetlive.co.uk/*
 *://*.mingle-mangle.com/*
 *://*.mithra-e.com/*
@@ -451,3 +455,6 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.bestproxy.cc/*
 *://*.yebaotv.com/*
 *://*.lfjifa.com/*
+*://*.imyfone.com/*
+*://*.2jdda.org/*
+*://*.pompanobeachtackle.com/*
