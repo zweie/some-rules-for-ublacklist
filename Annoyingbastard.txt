@@ -118,6 +118,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://app.bountysource.com/*
 *://*.numberempire.com/*
 
+
 ###############
 ### Scalper ###
 ###############
@@ -272,6 +273,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.windows12.pro/*
 *://*.guzelgunlere.online/*
 *://*.oli-school.com/*
+*://*.minitool.com/*
 *://*.ondabes.online/*
 *://*.palliser.com/*
 *://*.pconline.com.cn/*
