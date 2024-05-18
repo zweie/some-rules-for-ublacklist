@@ -110,6 +110,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.llscrm.com/*
 *://oksms.org/*
 *://*.mucyplus.net/*
+*://*.integral.org.cn/*
 *://*.acmechange.com/*
 *://*.howtogeek.com/*
 *://*.xlebbs.com/*
@@ -236,6 +237,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.kocpc.com.tw/*
 *://*.techwar.gr/*
 *://*.duotin.com/*
+*://*.telagrnm.org/*
 *://*.dxwoff.com/*
 *://*.eigv-sv.de/*
 *://*.emilyrosespa.com/*
