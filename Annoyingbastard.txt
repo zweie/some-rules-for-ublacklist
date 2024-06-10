@@ -90,6 +90,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.dafengdagengren.com/*
 *://*.service-skype.com/*
 *://*.steamtools.net/*
+*://*.rarbg-official.to/*
 
 ########################
 ### Unable to access ###
