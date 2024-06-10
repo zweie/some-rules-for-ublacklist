@@ -161,3 +161,4 @@
 *://*.ifonts.com/*
 *://*.imazing.com/*
 *://*.aiseesoft.com/*
+*://*.reddit.com/*
