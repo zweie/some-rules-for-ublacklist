@@ -103,6 +103,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://blog.ficowshen.com/*
 *://*.panelopiekuna.edu.pl/*
 *://www.zzwvps.com/*
+*://*.purge.cam/*
 *://s.1zo7.com/*
 *://vtcjd.com/*
 *://hd24bit.com/*
@@ -218,6 +219,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.zhejianghao.com/*
 *://*.php.cn/*
 *://*.clash-gaming.com/*
+*://*.guid.cam/*
 *://*.thewindowsclub.com/*
 *://*.avtang.com/*
 *://*.zz5u.com/*
@@ -227,6 +229,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.liulanqi.com/*
 *://*.digitzn.com/*
 *://*.wwtyrd.com/*
+*://*.howtohi.com/*
 *://*.cmncam.com/*
 *://*.cn-sec.com/*
 *://*.ahhhhfs.com/*
@@ -262,6 +265,8 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.lyftegypt.com/*
 *://*.maxicleanlavanderias.com/*
 *://*.metsagroup.com/*
+*://*.sysgeek.cn/*
+*://*.iheshun.net/*
 *://*.pc-tips.info/*
 *://*.milliondollarquartetlive.co.uk/*
 *://*.mingle-mangle.com/*
