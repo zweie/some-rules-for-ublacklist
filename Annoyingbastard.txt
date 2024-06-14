@@ -1,21 +1,14 @@
 # 自己用不到的网页
-*://*.115.com/*
 *://*.1point3acres.com/*
-*://*.aliyuncs.com/*
 *://*.bjx.com.cn/*
 *://*.fang.com/*
-*://*.huaweicloud.com/*
-*://*.instagram.com/*
 *://*.iyg.net/*
 *://*.lovejay.top/*
 *://*.qobuz.com/*
 *://*.ruten.com.tw/*
 *://*.suning.com/*
 *://*.taoshupu.net/*
-*://*.tumblr.com/*
 *://allinfa.com/*
-*://app.mi.com/*
-*://apps.apple.com/*
 *://bbs.xyaz.cn/*
 *://buff.163.com/*
 *://chuoooo.com/*
@@ -25,9 +18,6 @@
 *://dawhois.com/*
 *://fanqienovel.com/*
 *://file.ankichinas.cn/*
-*://games.sina.cn/*
-*://gu.qq.com/*
-*://sj.qq.com/*
 *://hk.ke.com/*
 *://hypeddit.com/*
 *://k.sina.cn/*
@@ -39,20 +29,14 @@
 *://my.oschina.net/*
 *://newcar.xcar.com.cn/*
 *://nj.lianjia.com/*
-*://nordvpn.com/*
 *://page.iesdouyin.com/*
-*://*.izihun.com/*
 *://*.fontru.com/*
 *://product.auto.163.com/*
 *://pvp.qq.com/*
 *://quotes.sina.cn/*
-*://tech.sina.cn/*
-*://trix360.com.sitescorechecker.com/*
-*://tw.dictionary.yahoo.com/*
 *://tw.mall.yahoo.com/*
 *://wqbook.wqxuetang.com/*
 *://www.997788.com/*
-*://www.bluestacks.cn/*
 *://www.dealmoon.com/*
 *://www.futunn.com/*
 *://www.givenchy.com/*
@@ -77,9 +61,6 @@
 *://xingxizhijia.com/*
 *://xueqiu.com/*
 *://znssapp.com/*
-*://*.keepassium.com/*
-*://*.keepasshub.com/*
-*://*.strongboxsafe.com/*
 *://*.zach.codes/*
 *://*.lofter.com/*
 *://*.gcores.com/*
@@ -93,6 +74,9 @@
 *://*.softwaretested.com/*
 *://*.namu.wiki/*
 *://*.trip.com/*
+*://*.updatestar.com/*
+*://*.gaodimusic.com/*
+*://*.60yp.com/*
 
 ###################################
 ########### 新闻(?)网站 ############
@@ -101,6 +85,10 @@
 *://c.m.163.com/*
 *://weread.qq.com/*
 *://*.epochtimes.com/*
+*://games.sina.cn/*
+*://gu.qq.com/*
+*://sj.qq.com/*
+*://tech.sina.cn/*
 *://*.yicai.com/*
 *://*.autohome.com.cn/*
 *://*.yxzzd.com/*
@@ -115,10 +103,16 @@
 ###################################
 *://*.ipip.net/*
 *://www.amazon.ca/*
+*://*.izihun.com/*
 *://www.amazon.co.uk/*
 *://www.amazon.de/*
+*://nordvpn.com/*
 *://www.amazon.fr/*
+*://*.keepassium.com/*
+*://*.strongboxsafe.com/*
+*://*.keepasshub.com/*
 *://*.miuiver.com/*
+*://us.7digital.com/*
 *://*.uber.com/*
 ###################################
 ########### 农场(?)网站 ############
@@ -162,3 +156,13 @@
 *://*.imazing.com/*
 *://*.aiseesoft.com/*
 *://*.reddit.com/*
+*://trix360.com.sitescorechecker.com/*
+*://tw.dictionary.yahoo.com/*
+*://www.bluestacks.cn/*
+*://app.mi.com/*
+*://*.tumblr.com/*
+*://*.huaweicloud.com/*
+*://*.115.com/*
+*://*.aliyuncs.com/*
+*://*.instagram.com/*
+*://apps.apple.com/*
