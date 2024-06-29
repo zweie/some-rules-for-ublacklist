@@ -72,7 +72,8 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://www.gdyunjie.cn/*
 
 #######################
-### ****ing Forgery ###
+### F**king Forgery ###
+####### 仿冒网站 #######
 #######################
 *://fitgirl-repack.com/*
 *://gm.checkbloc.com/*
@@ -120,6 +121,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 
 ###############
 ### Scalper ###
+#### 倒卖狗 ####
 ###############
 *://www.mpyit.com/*
 *://download.csdn.net/*
@@ -128,10 +130,15 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://max.book118.com/*
 *://www.docin.com/*
 *://*.fontke.com/*
+*://*.xxxxx520.vip/*
 *://www.tiaokan.info/*
 *://www.share365.vip/*
+*://*.520switch.com/*
 *://*.moku1.com/*
 *://*.sacdsd.com/*
+*://*.oiobbs.com/*
+*://*.stroikms.ru/*
+*://*.ailoli.us/*
 *://*.moku11.com/*
 *://*.lanrenbl.net/*
 *://*.haogeduo.com/*
