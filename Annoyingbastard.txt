@@ -107,6 +107,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.h233.eu.org/*
 *://*.llscrm.com/*
 *://oksms.org/*
+*://*.gtaforums.com/*
 *://*.gqsou.com/*
 *://*.mucyplus.net/*
 *://*.integral.org.cn/*
@@ -431,6 +432,7 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.revivalanimal.com/*
 *://*.sms-receive-online.com/*
 *://*.sms24.me/*
+*://*.goproxy.com/*
 *://*.surfshark.com/*
 *://*.uultd.com/*
 *://*.youxi369.com/*
