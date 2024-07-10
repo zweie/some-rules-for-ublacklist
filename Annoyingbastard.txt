@@ -233,8 +233,10 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.lb158.xyz/*
 *://*.liulanqi.com/*
 *://*.digitzn.com/*
+*://*.tecnobits.com/*
 *://*.wwtyrd.com/*
 *://*.howtohi.com/*
+*://*.quark.cn/*
 *://*.cmncam.com/*
 *://*.cn-sec.com/*
 *://*.ahhhhfs.com/*
