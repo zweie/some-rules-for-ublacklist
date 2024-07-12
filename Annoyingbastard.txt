@@ -92,6 +92,7 @@
 *://mil.sina.cn/*
 *://tech.sina.cn/*
 *://games.sina.cn/*
+*://jmqmil.sina.cn/*
 *://m.sohu.com/*
 *://*.yicai.com/*
 *://*.autohome.com.cn/*
