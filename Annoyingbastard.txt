@@ -83,12 +83,16 @@
 ###################################
 *://www.163.com/*
 *://c.m.163.com/*
+*://news.163.com/*
+*://war.163.com/*
 *://weread.qq.com/*
 *://*.epochtimes.com/*
-*://games.sina.cn/*
 *://gu.qq.com/*
 *://sj.qq.com/*
+*://mil.sina.cn/*
 *://tech.sina.cn/*
+*://games.sina.cn/*
+*://m.sohu.com/*
 *://*.yicai.com/*
 *://*.autohome.com.cn/*
 *://*.yxzzd.com/*
