@@ -238,8 +238,11 @@ title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机�
 *://*.howtohi.com/*
 *://*.quark.cn/*
 *://*.cmncam.com/*
+*://*.51miz.com/*
+*://wenku.so.com/*
 *://*.cn-sec.com/*
 *://*.ahhhhfs.com/*
+*://*.guancha.cn/*
 *://*.d3shu.com/* 
 *://*.daniela-jahr.de/*
 *://*.druu82.one/*
