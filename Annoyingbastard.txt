@@ -418,6 +418,7 @@ title/(视频去哪了呢)/
 *://*.extrabux.com/*
 *://*.zyheliport.com/*
 *://*.520zuowens.com/*
+*://*.philamuseum.org/*
 *://*.wuhuaro.com/*
 *://*.mytempsms.com/*
 *://*.hjxx.net/*
