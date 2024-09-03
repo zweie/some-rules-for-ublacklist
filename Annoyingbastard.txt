@@ -10,7 +10,6 @@
 *://*.taoshupu.net/*
 *://allinfa.com/*
 *://bbs.xyaz.cn/*
-*://buff.163.com/*
 *://chuoooo.com/*
 *://club.autohome.com.cn/*
 *://cn.investing.com/*
@@ -20,21 +19,13 @@
 *://file.ankichinas.cn/*
 *://hk.ke.com/*
 *://hypeddit.com/*
-*://k.sina.cn/*
 *://kan.china.com/*
 *://mall.jarhu.com/*
-*://money.163.com/*
 *://moscot.com/*
-*://mumu.163.com/*
-*://my.oschina.net/*
 *://newcar.xcar.com.cn/*
 *://nj.lianjia.com/*
 *://page.iesdouyin.com/*
 *://*.fontru.com/*
-*://product.auto.163.com/*
-*://pvp.qq.com/*
-*://quotes.sina.cn/*
-*://tw.mall.yahoo.com/*
 *://wqbook.wqxuetang.com/*
 *://www.997788.com/*
 *://www.dealmoon.com/*
@@ -103,6 +94,14 @@
 *://*.gameducky.com/*
 *://*.infoq.cn/*
 *://*.changbiyuan.com/*
+*://product.auto.163.com/*
+*://pvp.qq.com/*
+*://quotes.sina.cn/*
+*://tw.mall.yahoo.com/*
+*://buff.163.com/*
+*://k.sina.cn/*
+*://money.163.com/*
+*://mumu.163.com/*
 ###################################
 ############# 购物网站 #############
 ###################################
@@ -172,3 +171,6 @@
 *://*.aliyuncs.com/*
 *://*.instagram.com/*
 *://apps.apple.com/*
+*://*.youku.com/*
+*://*.lofter.com/*
+*://my.oschina.net/*
