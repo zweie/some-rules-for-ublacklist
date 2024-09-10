@@ -238,6 +238,7 @@ title/(视频去哪了呢)/
 *://*.clash-gaming.com/*
 *://*.guid.cam/*
 *://*.zzfmdn.com/*
+*://*.wshjd.com/*
 *://*.thewindowsclub.com/*
 *://*.avtang.com/*
 *://*.zz5u.com/*
@@ -250,6 +251,7 @@ title/(视频去哪了呢)/
 *://*.wwtyrd.com/*
 *://*.howtohi.com/*
 *://*.quark.cn/*
+*://*.59xt.com/*
 *://*.cmncam.com/*
 *://*.51miz.com/*
 *://*.renrenaimei.com/*
