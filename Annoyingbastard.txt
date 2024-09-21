@@ -142,8 +142,11 @@ title/(视频去哪了呢)/
 *://*.oiobbs.com/*
 *://*.stroikms.ru/*
 *://*.ailoli.us/*
+*://*.haitubl.com/*
+*://*.hualinacgcyb.cc/*
 *://*.moku11.com/*
 *://*.lanrenbl.net/*
+*://*.sisicyba.com/*
 *://*.haogeduo.com/*
 *://*.52cgzys.com/*
 *://*.78fenxiang.com/*
@@ -299,6 +302,8 @@ title/(视频去哪了呢)/
 *://*.pc-tips.info/*
 *://*.milliondollarquartetlive.co.uk/*
 *://*.mingle-mangle.com/*
+*://*.rhymes.com/*
+*://*.godloveworld.com/*
 *://*.mithra-e.com/*
 *://*.mjh25.one/*
 *://*.mjh34.one/*
@@ -395,6 +400,7 @@ title/(视频去哪了呢)/
 *://*.tuoshuidu.com/*
 *://*.dongchedi.com/*
 *://www.doyo.cn/*
+*://*.archdaily.com/*
 *://*.enn-ng.com/*
 *://*.idc.ke/*
 *://www.gamersky.com/*
