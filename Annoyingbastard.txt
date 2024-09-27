@@ -227,10 +227,12 @@ title/(视频去哪了呢)/
 *://*.chinapave.com/*
 *://*.stone-jm.com/*
 *://*.yidugo.com/*
+*://*.yulinkuajing.com/*
 *://*.bolepeixun.com/*
 *://*.61taotao.com/*
 *://*.liaoyixiagpt.com/*
 *://*.wentaotie.net/*
+*://*.idc.net/*
 *://*.gongsichuang.com/*
 *://*.cillin.info/*
 *://*.zhejianghao.com/*
@@ -243,6 +245,7 @@ title/(视频去哪了呢)/
 *://*.zzfmdn.com/*
 *://*.wshjd.com/*
 *://*.thewindowsclub.com/*
+*://*.cnbeta.com.tw/*
 *://*.avtang.com/*
 *://*.zz5u.com/*
 *://*.oldtang.com/*
