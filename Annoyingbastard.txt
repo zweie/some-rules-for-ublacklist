@@ -37,6 +37,8 @@ title/(视频去哪了呢)/
 *://*.anqer.cn/*
 *://*.apkzu.com/*
 *://*.cfpan.com/*
+*://*.ttyx8.com/*
+*://*.xzfile.com/*
 *://*.cncrk.com/*
 *://*.crsky.com/*
 *://*.dnxtw.com/*

@@ -14,6 +14,9 @@
 *://*.520zuowens.com/*
 *://*.59xt.com/*
 *://*.600xue.com/*
+*://*.x05.net/*
+*://*.dnzp.com/*
+*://*.9doke.com/*
 *://*.61taotao.com/*
 *://*.8udy.com/*
 *://*.9917.cn/*
