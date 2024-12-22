@@ -1,7 +1,6 @@
 ####################
 ### Content Farm ###
 ####################
-*:/*.jimowang.com/*
 *://*.0757it.cn/*
 *://*.105188.com/*
 *://*.111cn.net/*
@@ -14,12 +13,12 @@
 *://*.520zuowens.com/*
 *://*.59xt.com/*
 *://*.600xue.com/*
-*://*.x05.net/*
-*://*.dnzp.com/*
-*://*.9doke.com/*
 *://*.61taotao.com/*
 *://*.8udy.com/*
 *://*.9917.cn/*
+*://*.9doke.com/*
+*://*.mtzfile.pw/*
+*://*.zaslice.com/*
 *://*.9kd.com/*
 *://*.ahhhhfs.com/*
 *://*.aimeizx.com/*
@@ -54,13 +53,13 @@
 *://*.codenong.com/*
 *://*.copisteriaorseolo.it/*
 *://*.crifan.com/*
-*://*.woqiyounai.com/*
 *://*.d3shu.com/* 
 *://*.daniela-jahr.de/*
 *://*.deschamps-hennebert.fr/*
 *://*.diankaiwan.com/*
 *://*.digitzn.com/*
 *://*.dmartbeautymicropigmentacion.es/*
+*://*.dnzp.com/*
 *://*.dongchedi.com/*
 *://*.doyo.cn/*
 *://*.druu82.one/*
@@ -109,11 +108,13 @@
 *://*.idc.ke/*
 *://*.idc.net/*
 *://*.iheshun.net/*
+*://*.inszhan.com/*
 *://*.iplayio.cn/*
 *://*.iteye.com/*
 *://*.izhuji.net/*
 *://*.jb51.net/*
 *://*.jennyperl.com/*
+*://*.jimowang.com/*
 *://*.jinchutou.com/*
 *://*.jishuwen.com/*
 *://*.jjub.cc/*
@@ -214,10 +215,12 @@
 *://*.voidcn.com/*
 *://*.wentaotie.net/*
 *://*.windows12.pro/*
+*://*.woqiyounai.com/*
 *://*.wqiis.com.cn/*
 *://*.wshjd.com/*
 *://*.wuhuaro.com/*
 *://*.wwtyrd.com/*
+*://*.x05.net/*
 *://*.xbeibeix.com/*
 *://*.xiaozishe.com/*
 *://*.xjx100.cn/*

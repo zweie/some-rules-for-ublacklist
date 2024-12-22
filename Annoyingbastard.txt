@@ -115,6 +115,7 @@ title/(视频去哪了呢)/
 *://*.h233.eu.org/*
 *://*.howtogeek.com/*
 *://*.integral.org.cn/*
+*://*.fangzhengziku.com/*
 *://*.liuwo.com/*
 *://*.llscrm.com/*
 *://*.lvyou100.com/*
@@ -315,6 +316,16 @@ title/(视频去哪了呢)/
 *://fazhaber.online/*
 *://firtinaosman.online/*
 *://fonthaha.com/*
+*://ttfont.com/*
+*://taofont.com/*
+*://*.ztxz.cc/*
+*://*.fontku.com/*
+*://*.zzfont.com/*
+*://*.fontge.com/*
+*://*.fontka.com/*
+*://*.mostfont.com/*
+*://*.mostanswer.com/*
+*://*.yishuviti.cn/*
 *://gozcicegim.online/*
 *://gozdehaber.online/*
 *://iphone.apkpure.com/*
