@@ -83,27 +83,29 @@ title/(视频去哪了呢)/
 
 #######################
 ### F**king Forgery ###
-####### 仿冒网站 #######
+####### 仿冒网站 ######
 #######################
+*：//*.99box.com/*
 *://*.dafengdagengren.com/*
+*://*.fanerkongjian.com/*
 *://*.fitgirltorrent.com/*
 *://*.naifei.im/*
 *://*.namesilo-china.com/*
-*://potplayer.org/*
-*://daumpotplayer.com/*
 *://*.pchealthcheck.net/*
 *://*.rarbg-official.to/*
 *://*.service-skype.com/*
 *://*.steamtools.net/*
+*://daumpotplayer.com/*
 *://fitgirl-repack.com/*
 *://gm.checkbloc.com/*
-*://www.sogou.org/*
-*://www.suacg.com/*
+*://potplayer.org/*
+*://*.sogou.org/*
+*://*.suacg.com/*
 
 ########################
 ### Unable to access ###
 ########################
-*://*..sailaila.net/*
+*://*.sailaila.net/*
 *://*.1556.top/*
 *://*.17ziti.com/*
 *://*.acmechange.com/*
