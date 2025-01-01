@@ -1,29 +1,29 @@
-#############
+##############
 ###防止误杀###
-#############
+##############
 @*://answers.microsoft.com/*
 @*://www.landiannews.com/*
 @*://*.edu/*
 @*://*.edu.cn/*
 
 #############################
-#屏蔽移动端网页
+# 屏蔽移动端网页
 /[a-zA-z]+:\/\/(m\.|wap\.)+[^\s]*/
 #/((m|wap)\.)+([^\s]*)/
-#屏蔽非加密网站
+# 屏蔽非加密网站
 /^(http:\/\/)/
-#屏蔽纯数字网址
+# 屏蔽纯数字网址
 /[https://]+[0-9]+.(com|net|org|xyz|cc|top)/
-#屏蔽ip搜索结果
+# 屏蔽ip搜索结果
 /((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})(\.((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})){3}/
 
 title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机网|软件网|软件园|下载站|vpn|出国|一键访问|资源网|推荐|㊙️|✅️)/
 title/(视频去哪了呢)/
 
-###########################################################################
-######################### Software download sites #########################
-#############  (These websites may contain malicious programs) ############
-###########################################################################
+########################################################
+############### Software download sites ################
+###  (These websites may contain malicious programs) ###
+########################################################
 *://*.05sun.net/*
 *://*.1758dj.com/*
 *://*.32r.com/*
@@ -37,10 +37,14 @@ title/(视频去哪了呢)/
 *://*.anqer.cn/*
 *://*.apkzu.com/*
 *://*.cfpan.com/*
+*://*.nmcp.net/*
 *://*.ttyx8.com/*
+*://*.55g.cc/*
 *://*.xzfile.com/*
 *://*.cncrk.com/*
 *://*.crsky.com/*
+*://*.picxiaobai.com/*
+*://*.91rjz.com/*
 *://*.dnxtw.com/*
 *://*.downkr.com/*
 *://*.downxing.com/*
@@ -48,6 +52,7 @@ title/(视频去哪了呢)/
 *://*.fasola.edu.pl/*
 *://*.flash.cn/*
 *://*.onlinedown.net/*
+*://*.17wanjia.com/*
 *://*.foxss.top/*
 *://*.gdyunjie.cn/*
 *://*.greenxiazai.com/*
@@ -92,6 +97,7 @@ title/(视频去哪了呢)/
 *://*.naifei.im/*
 *://*.namesilo-china.com/*
 *://*.pchealthcheck.net/*
+*://*.uc129.com/*
 *://*.rarbg-official.to/*
 *://*.service-skype.com/*
 *://*.steamtools.net/*
@@ -150,10 +156,9 @@ title/(视频去哪了呢)/
 *://xuanring.com/*
 *://xuchen.wang/*
 
-
 ###############
 ### Scalper ###
-#### 倒卖狗 ####
+#### 倒卖狗 ###
 ###############
 *://*.1319q.com/*
 *://*.17ziti.com/*
@@ -167,12 +172,17 @@ title/(视频去哪了呢)/
 *://*.acgshome.com/*
 *://*.ailoli.us/*
 *://*.ape-flac.com/*
+*://*.chaorenyouxi.co/*
+*://*.playdanji.com/*
+*://*.jkrygame.vip/*
 *://*.bluegq.com/*
 *://*.book118.com/*
 *://*.cqe.cc/*
 *://*.docin.com/*
+*://*.98666x.top/*
 *://*.easylife.tw/*
 *://*.element3ds.com/*
+*://*.ydyxcn.com/*
 *://*.fontke.com/*
 *://*.haitubl.com/*
 *://*.haogeduo.com/*
@@ -184,6 +194,7 @@ title/(视频去哪了呢)/
 *://*.keeqm.com/*
 *://*.lanrenbl.net/*
 *://*.lspacg.com/*
+*://*.ydzyfx.vip/*
 *://*.mdusa.cc/*
 *://*.moku1.com/*
 *://*.moku11.com/*
@@ -208,6 +219,15 @@ title/(视频去哪了呢)/
 *://bobopic.com/*
 *://*.csdn.net/*
 *://www.2cyla.com/*
+
+#####################
+### Member Conten ###
+##### 会员内容 ######
+# The information provided by these sites can only be accessed or obtained after participating in something, such as joining a group, subscribing to a channel or liking a page.
+*://*.5217city.com/*
+*://*.yufanbox.com/*
+*://*.kuafuzys.com/*
+
 
 ##################
 ### Suspicious ###
@@ -257,6 +277,7 @@ title/(视频去哪了呢)/
 *://*.byart.cc/*
 *://*.chenweiliang.com/*
 *://*.covetadorn.com/*
+*://*.auxbbs.com/*
 *://*.dffy.com/*
 *://*.didajsq.com/*
 *://*.fnjiasu.com/*
