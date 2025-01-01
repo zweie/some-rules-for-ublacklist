@@ -34,15 +34,12 @@
 *://www.got1shop.com/*
 *://www.ifanr.com/*
 *://www.ipaddress.my/*
-*://www.ipip.net/*
 *://www.jisuapi.com/*
 *://www.laohu8.com/*
 *://www.ldmnq.com/*
 *://www.siemens-home.cn/*
 *://www.sojson.com/*
 *://www.soushu.site/*
-*://www.tesla.cn/*
-*://www.tesla.com/*
 *://www.vipsrc.com/* 
 *://www.wolframalpha.com/*
 *://www.xiaote.com/*
@@ -53,7 +50,6 @@
 *://xueqiu.com/*
 *://znssapp.com/*
 *://*.zach.codes/*
-*://*.lofter.com/*
 *://*.gcores.com/*
 *://*.trow.cc/*
 *://*.indienova.com/*
@@ -178,3 +174,7 @@
 *://my.oschina.net/*
 *://*.izihun.com/*
 *://*.douyin.com/*
+*://*.iqiyi.com/*
+*://*.tesla.cn/*
+*://*.tesla.com/*
+*://*.lofter.com/*
