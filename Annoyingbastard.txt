@@ -32,10 +32,12 @@ title/(视频去哪了呢)/
 *://*.52z.com/*
 *://*.5ku.org/*
 *://*.85jz.com/*
+*://*.4399xyxy.com/*
 *://*.92sucai.com/*
 *://*.aiya8.com/*
 *://*.anqer.cn/*
 *://*.apkzu.com/*
+*://*.52pkvr.com/*
 *://*.cfpan.com/*
 *://*.nmcp.net/*
 *://*.ttyx8.com/*
@@ -172,12 +174,14 @@ title/(视频去哪了呢)/
 *://*.acgshome.com/*
 *://*.ailoli.us/*
 *://*.ape-flac.com/*
+*://*.mxdjzj.com/*
 *://*.chaorenyouxi.co/*
 *://*.playdanji.com/*
 *://*.jkrygame.vip/*
 *://*.bluegq.com/*
 *://*.book118.com/*
 *://*.cqe.cc/*
+*://*.3dhmao.org/*
 *://*.docin.com/*
 *://*.98666x.top/*
 *://*.easylife.tw/*
@@ -325,6 +329,8 @@ title/(视频去哪了呢)/
 *://*.zitidao.com/*
 *://*.zitixiazai.cn/*
 *://*.znalezieni.pl/*
+*://*.zhuanyewanjia.com/*
+*://*.game777.cn/*
 *://*.ztxz.net.cn/*
 *://acg.zsyts.cn/*
 *://attack.pw/*

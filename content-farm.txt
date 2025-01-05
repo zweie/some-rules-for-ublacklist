@@ -128,11 +128,15 @@
 *://*.koreansji.co.ua/*
 *://*.koreansjj.co.ua/*
 *://*.langrensha.net/*
+*://*.51saier.cn/*
 *://*.lb158.xyz/*
 *://*.legatus-udc.ru/*
+*://*.9891.com/*
 *://*.liaoyixiagpt.com/*
+*://*.shanwan.com/*
 *://*.likefont.com/*
 *://*.ppkk.top/*
+*://*.dicold.com/*
 *://*.liulanqi.com/*
 *://*.luxshare-ict.com/*
 *://*.lyftegypt.com/*
@@ -146,6 +150,7 @@
 *://*.mingle-mangle.com/*
 *://*.minitool.com/*
 *://*.hnamos.com/*
+*://*.quwaifu.com/*
 *://*.mithra-e.com/*
 *://*.mjh25.one/*
 *://*.52funs.com/*
