@@ -17,7 +17,7 @@
 # 屏蔽ip搜索结果
 /((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})(\.((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})){3}/
 
-title/(UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机网|软件网|软件园|下载站|vpn|出国|一键访问|资源网|推荐|㊙️|✅️)/
+title/(2345|UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机网|软件网|软件园|下载站|vpn|出国|一键访问|资源网|推荐|㊙️|✅️)/
 title/(视频去哪了呢)/
 
 ########################################################
@@ -34,8 +34,10 @@ title/(视频去哪了呢)/
 *://*.85jz.com/*
 *://*.4399xyxy.com/*
 *://*.92sucai.com/*
+*://*.downza.cn/*
 *://*.aiya8.com/*
 *://*.anqer.cn/*
+*://*.duote.com/*
 *://*.apkzu.com/*
 *://*.52pkvr.com/*
 *://*.cfpan.com/*
@@ -52,6 +54,7 @@ title/(视频去哪了呢)/
 *://*.downxing.com/*
 *://*.edge66.com/*
 *://*.fasola.edu.pl/*
+*://*.qsxzz.com/*
 *://*.flash.cn/*
 *://*.onlinedown.net/*
 *://*.17wanjia.com/*
@@ -90,17 +93,28 @@ title/(视频去哪了呢)/
 
 #######################
 ### F**king Forgery ###
-####### 仿冒网站 ######
+###### 误导网站 #######
 #######################
 *：//*.99box.com/*
 *://*.dafengdagengren.com/*
 *://*.fanerkongjian.com/*
 *://*.fitgirltorrent.com/*
 *://*.naifei.im/*
+*://*.yhyhtech.com/*
+*://*.google-zh.com/*
+*://*.chromcn.com/*
+*://*.sootool.net/*
+*://*.gloogle.cc/*
+*://*.ggllq.net/*
+*://*.chrome.net.cn/*
 *://*.namesilo-china.com/*
+*://*.xahuapu.net/*
 *://*.pchealthcheck.net/*
+*://*.bjjuxiao.cn/*
+*://*.google-chrom.cn/*
 *://*.uc129.com/*
 *://*.rarbg-official.to/*
+*://*.huohullq.com/*
 *://*.service-skype.com/*
 *://*.steamtools.net/*
 *://daumpotplayer.com/*

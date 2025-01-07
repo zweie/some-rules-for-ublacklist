@@ -129,8 +129,10 @@
 *://*.koreansjj.co.ua/*
 *://*.langrensha.net/*
 *://*.51saier.cn/*
+*://*.xiaomeiboke.com/*
 *://*.lb158.xyz/*
 *://*.legatus-udc.ru/*
+*://*.mspoweruser.com/*
 *://*.9891.com/*
 *://*.liaoyixiagpt.com/*
 *://*.shanwan.com/*
