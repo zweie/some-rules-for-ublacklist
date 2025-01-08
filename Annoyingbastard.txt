@@ -1,29 +1,31 @@
-##############
-###防止误杀###
-##############
+##################
+### Prevent TK ###
+#### 防止误杀 ####
+##################
 @*://answers.microsoft.com/*
 @*://www.landiannews.com/*
 @*://*.edu/*
 @*://*.edu.cn/*
 
 #############################
-# 屏蔽移动端网页
-/[a-zA-z]+:\/\/(m\.|wap\.)+[^\s]*/
-#/((m|wap)\.)+([^\s]*)/
-# 屏蔽非加密网站
-/^(http:\/\/)/
+# Block Mobile Only Site
+# 屏蔽仅有移动端的网页
+# 目前看起来似乎只有以 “m” 开头或以 “wap” 开头的
+/.*\/(m|wap)\..*/
+
 # 屏蔽纯数字网址
 /[https://]+[0-9]+.(com|net|org|xyz|cc|top)/
+
 # 屏蔽ip搜索结果
 /((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})(\.((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})){3}/
 
 title/(2345|UserProfile|Untitled|Search Results|无主题|网红上门|手游|手机网|软件网|软件园|下载站|vpn|出国|一键访问|资源网|推荐|㊙️|✅️)/
 title/(视频去哪了呢)/
 
-########################################################
-############### Software download sites ################
-###  (These websites may contain malicious programs) ###
-########################################################
+###############################
+### Software download sites ###
+####### 软件下载(崽)站 ########
+###############################
 *://*.05sun.net/*
 *://*.1758dj.com/*
 *://*.32r.com/*
@@ -106,6 +108,7 @@ title/(视频去哪了呢)/
 *://*.sootool.net/*
 *://*.gloogle.cc/*
 *://*.ggllq.net/*
+*://*.googlechromexz.com/*
 *://*.chrome.net.cn/*
 *://*.namesilo-china.com/*
 *://*.xahuapu.net/*
@@ -174,7 +177,7 @@ title/(视频去哪了呢)/
 
 ###############
 ### Scalper ###
-#### 倒卖狗 ###
+###  倒卖狗 ###
 ###############
 *://*.1319q.com/*
 *://*.17ziti.com/*
@@ -242,6 +245,8 @@ title/(视频去哪了呢)/
 ### Member Conten ###
 ##### 会员内容 ######
 # The information provided by these sites can only be accessed or obtained after participating in something, such as joining a group, subscribing to a channel or liking a page.
+# 关注你个锤子公众号
+*://*.5217city.com/*
 *://*.5217city.com/*
 *://*.yufanbox.com/*
 *://*.kuafuzys.com/*
