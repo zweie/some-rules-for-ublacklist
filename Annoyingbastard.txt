@@ -1,6 +1,9 @@
 # 咋说呢
 title/.*(极速).*/
 
+# 非HTTPS
+/http:.*/
+
 # 自己用不到的网页
 *://*.1point3acres.com/*
 *://*.bjx.com.cn/*
