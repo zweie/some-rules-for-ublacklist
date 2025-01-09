@@ -197,6 +197,7 @@ title/(视频去哪了呢)/
 *://*.jkrygame.vip/*
 *://*.bluegq.com/*
 *://*.book118.com/*
+*://*.moeacg.top/*
 *://*.cqe.cc/*
 *://*.3dhmao.org/*
 *://*.docin.com/*
