@@ -324,7 +324,14 @@
 *://lacocinaderosa.es/*
 *://lamina.pw/*
 *://larquey-environnement.fr/*
+*://*.fishlee.net/*
 *://leescandies.com/*
+*://*.runker.net/*
+*://*.ilxtx.com/*
+*://*.bomx.cn/*
+*://*.worktile.com/*
+*://*.xiangleshare.com/*
+*://*.bejson.com/*
 *://lopeninnederland.nl/*
 *://madadyaran.com/*
 *://mistral.pw/*
