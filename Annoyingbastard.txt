@@ -126,6 +126,13 @@ title/(视频去哪了呢)/
 *://*.pchealthcheck.net/*
 *://*.bjjuxiao.cn/*
 *://*.google-chrom.cn/*
+*://*.gugeliulanqi.net/*
+*://*.chengdufisu.com/*
+*://*.chrome35.com/*
+*://*.hyzyjy.com/*
+*://*.chrome64.com/*
+*://*.chromegw.com/*
+*://*.bjhjjt.com/*
 *://*.uc129.com/*
 *://*.rarbg-official.to/*
 *://*.huohullq.com/*
@@ -137,6 +144,11 @@ title/(视频去哪了呢)/
 *://potplayer.org/*
 *://*.sogou.org/*
 *://*.suacg.com/*
+*://*.sanxiang-sh.com/*
+*://*.bjhjjt.com/*
+*://*.dingbobw.com/*
+*://*.haudrill.com/*@KyoukaiNO1
+
 
 ########################
 ### Unable to access ###
