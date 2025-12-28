@@ -364,3 +364,13 @@
 *://yuchenios.com/*
 *://zhidao.baidu.com/*
 *://zqfoodt.com/*
+*://*.jpfuns.com/*
+*://*.ksnolag.com/*
+*://*.livenoping.com/*
+*://*.wywyx.com/*
+*://*.youleplay.com/*
+*://*.qieyou.com/*
+*://*.imahui.com/*
+*://*.youxi121.com/*
+*://*.yxlele.com/*
+*://*.3agame.tw/*
