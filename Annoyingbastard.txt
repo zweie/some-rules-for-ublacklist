@@ -17,7 +17,6 @@ title/.*(极速).*/
 *://allinfa.com/*
 *://bbs.xyaz.cn/*
 *://chuoooo.com/*
-*://club.autohome.com.cn/*
 *://cn.investing.com/*
 *://cuisiliu.net/*
 *://dawhois.com/*
@@ -88,7 +87,6 @@ title/.*(极速).*/
 *://jmqmil.sina.cn/*
 *://m.sohu.com/*
 *://*.yicai.com/*
-*://*.autohome.com.cn/*
 *://*.yxzzd.com/*
 *://*.ifeng.com/*
 *://*.ithome.com/*
