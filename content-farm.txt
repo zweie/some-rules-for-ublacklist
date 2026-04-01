@@ -24,7 +24,9 @@
 *://*.wqsnyx2.com/*
 *://*.ikuko.homes/*
 *://*.anzhuo8.com/*
+*://*.game773.com/*
 *://*.520zuowens.com/*
+*://*.sheitao.com/*
 *://*.52pk.com/*
 *://*.59xt.com/*
 *://*.600xue.com/*

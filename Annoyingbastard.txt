@@ -325,7 +325,7 @@ title/(视频去哪了呢)/
 *://fazhaber.online/*
 *://firtinaosman.online/*
 *://fonthaha.com/*
-*://ttfont.com/*
+*://*.ttfont.com/*
 *://taofont.com/*
 *://*.ztxz.cc/*
 *://*.fontku.com/*
