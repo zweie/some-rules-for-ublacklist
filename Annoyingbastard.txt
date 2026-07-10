@@ -70,6 +70,14 @@ title/.*(极速).*/
 *://*.gaodimusic.com/*
 *://*.60yp.com/*
 *://*.huolande.pro/*
+*://*.dwango.jp/*
+*://*.digiket.com/*
+*://*.mimicle.com/*
+*://*.estudiopepa.jp/*
+*://*.hdojinkan.com/*
+*://*.r18-ai.com/*
+*://*.asmr-plaza.com/*
+*://*.jimdofree.com/*
 
 ###################################
 ########### 新闻(?)网站 ############
